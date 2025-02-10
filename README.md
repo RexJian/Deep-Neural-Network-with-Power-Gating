@@ -1,5 +1,5 @@
 # Deep-Neural-Network-Power-Gating
-This is a deep neural network circuit, as shown in Figure 1. During the synthesis phase, I tried to use a memory IP to replace the flip-flop array to ensure that PrimeTime has no setup/hold violations. In this project, the multiplier block consumes a significant amount of power, so I decided to implement power gating for the block.
+This is a 1-neuron deep neural network circuit, as shown in Figure 1. During the synthesis phase, I tried to use a memory IP to replace the flip-flop array to ensure that PrimeTime has no setup/hold violations. In this project, the multiplier block consumes a significant amount of power, so I decided to implement power gating for the block.
 
 <p align="center">
   <img src="https://github.com/RexJian/Deep-Neural-Network-Power-Gating/blob/main/img/NeuralNetworkArchitecture.png" width="800" height="500" alt="Architecture">
